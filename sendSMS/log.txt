@@ -1,0 +1,24 @@
+04.18.2015 05:18:55 : Start
+04.18.2015 05:18:55 : End
+05.07.2015 05:07:48 : Start
+05.08.2015 05:08:22 : Start
+05.08.2015 05:08:23 : End
+05.23.2015 05:23:35 : Start
+05.23.2015 05:23:35 : End
+05.23.2015 05:23:58 : Start
+05.24.2015 05:24:00 : Start
+05.24.2015 05:24:00 : End
+05.24.2015 05:24:59 : Start
+05.24.2015 05:24:59 : End
+05.25.2015 05:25:03 : Start
+05.25.2015 05:25:03 : End
+05.26.2015 05:26:45 : Start
+05.26.2015 05:26:45 : Message didnot meet requirements to be sent. 
+[test]
+05.26.2015 05:26:45 : End
+05.27.2015 05:27:11 : Start
+05.27.2015 05:27:11 : Message didnot meet requirements to be sent. 
+[test testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest]
+05.27.2015 05:27:11 : End
+05.27.2015 05:27:35 : Start
+05.27.2015 05:27:35 : End

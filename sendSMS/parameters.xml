@@ -1,0 +1,25 @@
+<root>
+	<parameters>
+		<log4jPath>d:\\GoodleDrive\\Work\\NetBeansProjects\\sendSMS\\sendSMS\\client-log4j.properties</log4jPath>
+		<smppLogin>BrcAlrm</smppLogin>
+		<smppPass>2r31Lr</smppPass>
+		<smppIP>10.1.14.33</smppIP>
+		<smppPort>900</smppPort>
+		<smppProtocolID>1</smppProtocolID>
+		<smppPriorityFlag>1</smppPriorityFlag>
+		<smpp_ref_if_p_flag>0</smpp_ref_if_p_flag>
+		<smppSourceNumber>45658</smppSourceNumber>
+		<smppDestNumbers>77009999199</smppDestNumbers>
+		<logFile>d:\GoodleDrive\Work\NetBeansProjects\sendSMS\sendSMS\log.txt</logFile>
+		<msg>Hello there</msg>
+		<monitoredIP>
+			<ip>10.2.14.1</ip>
+			<ip>10.2.14.2</ip>
+			<ip>10.254.5.36</ip>
+			<ip>10.2.15.3</ip>
+			<ip>10.2.15.4</ip>
+			<ip>10.2.15.5</ip>
+			<ip>10.2.15.6</ip>
+		</monitoredIP>
+	</parameters>
+</root>
